@@ -7,7 +7,8 @@
 ###
 
 <h2 align="left">Hello, my name is Fhandy Nofalino Akhsan. I am 18 years old and currently pursuing my studies with the NIM 23343065. In my free time, I enjoy engaging in various activities. One of my favorite hobbies is motorcycling, where I love the thrill of riding and exploring new places. Additionally, I am also passionate about karate, which helps me stay disciplined and focused. Another exciting hobby of mine is motorcycle racing, where I get to test my skills and compete with other riders. I am always looking for new challenges and opportunities to grow in these areas
-/n Penjelasan : 
+
+  Penjelasan : 
 1. Jobsheet 1 membahas tentang pengantar pada mata kuliah struktur data
 2. Jobsheet 2 mengimplementasikan dan memanipulasi data array, pointer, 
 structure dan ADT dalam pemrograman
